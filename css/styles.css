@@ -1,0 +1,153 @@
+*{margin-left:100px;
+background-color: crimson;}
+.caja0{
+    background-color: black;
+    width: 100px;height: 50px;
+    position: relative;
+    left: 40px;
+    top: 30px;
+    border-radius: 10px;
+}
+.cajas{
+    background-color: black;
+    width: 240px;height: 50px;
+    position: relative;
+    right: 30px;
+    top: 20px;
+    border-radius: 50%;
+}
+.caja1{
+    background-color: white;
+    border-radius: 50%;
+    width: 150px;height: 150px;
+    position: relative;
+    left: 10px;
+}
+.c1{
+    background-color: whitesmoke;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+    width: 25px;height: 25px;
+    position: absolute;
+    right: 80px;
+    top: 40px;
+}
+.cc1{
+    background-color: red;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+    width: 5px;height: 5px;
+    position: absolute;
+    right: 4px;
+    top: 4px;
+}
+.cc2{
+    background-color: red;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+    width: 5px;height: 5px;
+    position: absolute;
+    right: 4px;
+    top: 4px;
+}
+.nariz{
+    background-color: orangered;
+    width: 20px;height: 20px;
+    position: absolute;
+    left: -30px;
+    top: 80px;
+    border-radius: 50%;
+}
+.boca{
+    background-color: orangered;
+    width: 50px;height: 10px;
+    position: absolute;
+    left: -45px;
+    top: 120px;
+    border-radius: 10px;
+}
+.c2{
+    background-color: white;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+    width: 25px;height: 25px;
+    position: absolute;
+    right: 25px;
+    top: 40px;
+}
+.caja2{
+    background-color: white;
+    border-radius: 50%;
+    width: 200px;height: 200px;
+    position: relative;
+    right: 15px;
+}
+.ccc1{
+    background-color: white;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+    width: 20px;height: 20px;
+    position: absolute;
+    right: 80px;
+    top: 40px;
+}
+.ccc2{
+    background-color: white;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+    width: 20px;height: 20px;
+    position: absolute;
+    right: 80px;
+    top: 80px;
+
+}
+.ccc3{
+    background-color: white;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+    width: 20px;height: 20px;
+    position: absolute;
+    right: 80px;
+    top: 120px;
+
+}
+.caja3{
+    background-color: white;
+    border-radius: 50%;
+    width: 300px;height: 300px;
+    position: relative;
+    right: 60px;
+}
+.caja4{
+    background-color: black;
+    width: 100px;height: 30px;
+    position: relative;
+    right: 90px;
+    bottom: 450px;
+    border-radius: 10px;
+    transform: rotate(45deg);
+
+}
+.caja5{
+    background-color: black;
+    width: 100px;height: 30px;
+    position: absolute;
+    left: 350px;
+    bottom: 410px;
+    border-radius: 10px;
+    transform: rotate(-45deg);
+}
